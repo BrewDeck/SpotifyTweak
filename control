@@ -1,0 +1,8 @@
+Package: com.brewdeck.spotifytweak
+Name: SpotifyTweak
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Spotify asset chooser integration using WKWebView and Now Playing center updates.
+Maintainer: BrewDeck
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 17.0)
